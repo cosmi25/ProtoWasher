@@ -1,0 +1,54 @@
+/* .hero::after {
+	content: 'pasdfjasdlkfn';
+	display: block;
+	opacity: 0.3;
+	position: absolute;
+	top: 100;
+	bottom: 100;
+	left: 200;
+	right: 0;
+	background: black;
+	border: cyan solid 2px;
+	
+} */
+/* p {
+	padding-top: 100px;
+  border: chartreuse solid 2px;
+	text-align: justify;
+} */
+
+section {
+	border: violet solid 2px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-top: 50px;
+	opacity: 0.9;
+	/* text-align: justify; */
+}
+
+cardText {
+	color: black;
+}
+/* researchBg {
+	height: 127vh;
+	background-size: cover;
+	background-position: center;
+	background-attachment: scroll;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+} */
+p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+headerText {
+	text-align: center;
+}
+
+h4,
+h5 {
+	text-align: center;
+}
